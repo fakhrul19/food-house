@@ -1,0 +1,16 @@
+Web Design Proposal for Cafes and Restaurants
+by Igor Mateski | Portfolio | 0 comments
+
+Client: My Restaurant
+
+Project requirements: Web Design for a restaurant
+
+URL address: http://bars-restaurants.webmaxformance.com
+
+Project description: This is a proposal design that will work well for both bar and a restaurant. A client contacted us to make a website for a restaurant. She had several specific requirements: catchy graphics, recipes section and also wanted an online menu with prices so customers can see what kind of food is served and how much it costs, and a location that is well visible and will help navigate interested customers to her restaurant.
+
+On the Homepage we put chef’s recommendation, location with hours of operation and customer testimonial. According to web marketing research this is something that will easily attract people’s attention and will work especially well for those who are looking for good restaurants or coffee houses. A huge help to advertise the place is also a big slider which can hold photographs of special dishes and drinks or the place itself. “A photo is worth a thousand words” they say, so this huge space can be a great representation of your place and attract the kind of customers you are trying to get.
+
+In the main navigation there is a Menu listing of food and drinks accompanied with prices which is great because your customer can just get to the page through a mobile device, see the list of food and choose from it right there.
+
+To see the website at work visit our link.
