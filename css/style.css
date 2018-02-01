@@ -108,24 +108,39 @@ footer.page-footer {
 
 
 
-/* ===== Blog Page Start ===== */
+/* ===== ***** Blog Page Start ***** ===== */
 
-/* Section: Blog v.3 */
-.py-4 {
-	padding-top: 5.5rem !important;
+#blog {
+	margin-top: 3.9rem !important;
 }
 
-/* ===== Blog Page End ===== */
+/* Tabs with JavaScript Behavior Start */
+.classic-tabs {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: -1rem;
+    z-index: 2;
+    position: relative;
+    border-radius: 2px;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+ul.pagination {
+	margin-bottom: 0;
+}
+/* Tabs with JavaScript Behavior End */
+
+/* ===== ***** Blog Page End ***** ===== */
 
 
 
 
-/* ===== Contact Page Start ===== */
+/* ===== ***** Contact Page Start ***** ===== */
 
 /* Section: Contact v.1 Start */
 #contact {
 	padding: 50px 0;
 }
-
-/* ===== Contact Page End ===== */
 /* Section: Contact v.1 End */
+
+/* ===== ***** Contact Page End ***** ===== */
+
